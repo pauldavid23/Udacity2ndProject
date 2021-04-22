@@ -1,0 +1,14 @@
+https://calculator.aws/#/estimate?id=0ce62a358740aaed1124362a8e4937fba1b29970,
+My brief statement,
+"With a $20,000 budget I used an EFS file system so I can have a scalable file system so as the business grows, it grows too. I upgraded my Application Load Balancer to a Network Load Balancer for optimum performance. I even used a Dynamo DB complete with Dynamo DB streams, Dynamo DB DAX for complete low latency performance. I even added another layer of cybersecurity called AWS WAF. 
+",
+,
+Services,Price
+Amazon Simple Storage Service (S3),25.13
+Amazon EC2,3020.05
+Amazon Virtual Private Cloud (VPC),74.7
+Amazon Dynamo DB,6216.64
+Network Load Balancer,454.43
+Elastic File System,6009.5
+AWS Web Application Firewall (WAF),2787.14
+Total,18587.59

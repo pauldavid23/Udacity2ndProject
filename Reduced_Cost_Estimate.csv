@@ -1,0 +1,12 @@
+https://calculator.aws/#/estimate?id=daab2124e0937ae5a57b56a386c48c66fec26ccb,
+,
+Since the budget has been reduced to $6500 dollars. I lowered my Ec2 instances type from C6.large to A1.metal to compensate for the price. I also lowered ,
+my AWS Aurora Serverless' capacity to lower the cost further. ,
+,
+Services,Price
+Amazon Simple Storage Service (S3),25.13
+Amazon EC2,953.05
+Amazon Virtual Private Cloud (VPC),74.7
+Amazon Aurora MySQL-Compatible,4982.51
+Elastic Load Balancing,220.83
+Total,6256.22
